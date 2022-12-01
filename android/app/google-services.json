@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747220592926",
+    "project_id": "edinsoncorpautenticacion",
+    "storage_bucket": "edinsoncorpautenticacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747220592926:android:d23913ad78761dab94010f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747220592926-lqb9cgc5lvdm2q3tp89a854muivdrbh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaspvlK5UtM9AmmlHLspgZoK4jLcXc3lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747220592926-lqb9cgc5lvdm2q3tp89a854muivdrbh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
